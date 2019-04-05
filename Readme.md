@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/RibbonControl_Ex/MainPage.xaml) (VB: [MainPage.xaml](./VB/RibbonControl_Ex/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RibbonControl_Ex/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RibbonControl_Ex/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RibbonControl_Ex/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RibbonControl_Ex/MainPage.xaml.vb))
 * [ThemeHelper.cs](./CS/RibbonControl_Ex/ThemeHelper.cs) (VB: [ThemeHelper.vb](./VB/RibbonControl_Ex/ThemeHelper.vb))
 <!-- default file list end -->
 # How to implement the ThemeHelper that populates an existing RibbonGalleryBarItem or any menu with items
